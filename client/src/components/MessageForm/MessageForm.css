@@ -1,0 +1,46 @@
+.message-form-container {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+  }
+  
+  .message-form-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .message-form-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .message-form-container input,
+  .message-form-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .message-form-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .message-form-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .message-form-container .error {
+    color: #ff0000;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
